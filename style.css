@@ -1,0 +1,167 @@
+.container {
+    width: 1080px;
+    height: 265px;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+  }
+  .containerbody {
+    width: 1080px;
+    height: 1460px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .menu {
+    display: block;
+    width: 100%;
+    height: 320px;
+    font-size: larger;
+    background-color: pink;
+    text-align: center;
+    padding-top: 15px;
+    margin: 0px 0px 0px 0px;
+    border-width: 1px;
+  }
+  
+  .menuitem {
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .menuitem a
+  {
+    color: black;
+    border-left: 2px;
+  }
+  .menuitemselected a
+  {
+    color: black;
+    border-left: 2px;
+  }
+  .color
+  {
+    color:aliceblue
+  }
+  .items 
+  {
+    display: block;
+    width: 100%;
+    height: 350px;
+    font-size: larger;
+    background-color: white;
+    padding-top: 15px;
+    margin: 0px 0px 0px 0px;
+    border-width: 1px;
+  }
+  .itemstext
+  {
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .imagecinnamon
+  {
+    display: block;
+    width: 50%;
+    height: 350px;
+    font-size: medium;
+    background-color: white;
+    margin: 0px 0px 0px 0px;
+    float: left;
+    border-color: aliceblue;
+  }
+  .imagedonut
+  {
+    display: block;
+    width: 50%;
+    height: 350px;
+    font-size: medium;
+    background-color: white;
+    margin: 0px 0px 0px 0px;
+    float: left;
+    border-color: aliceblue;
+  }
+  .imagepoppy
+  {
+    display: block;
+    width: 50%;
+    height: 350px;
+    font-size: medium;
+    background-color: white;
+    margin: 0px 0px 0px 0px;
+    float: left;
+    border-color: aliceblue;
+  }
+  .imagemuffin
+  {
+    display: block;
+    width: 50%;
+    height: 350px;
+    font-size: medium;
+    background-color: white;
+    margin: 0px 0px 0px 0px;
+    float: left;
+    border-color: aliceblue;
+  }
+  .text
+  {
+    float: left;
+    width: 50%;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .footer
+  {
+    height: 70px;
+    padding-top: 20px;
+    background-color: pink;
+    text-align: center;
+  }
+  .footer p
+  {
+    color: white;
+  }
+  .center
+  {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    display: block;
+  }
+  button
+  {
+    border-radius: 10px;
+    color: black;
+    text-shadow: none;
+    border: 1px solid white;
+    width: 100px;
+    height: 40px;
+    background-color: pink;
+  }
+  .purchase
+  {
+    color: white;
+    text-shadow: none;
+    border: 1px solid pink;
+    width: 150px;
+    height: 40px;
+    background-color: black;
+    border-radius: 0%;
+    
+  }
+  .baker
+  {
+    mix-blend-mode: darken;
+  }
+  .p
+  {
+    font-weight: lighter;
+  }
+  .img 
+  {
+    display: flex;
+    justify-content: center;
+  }
